@@ -10,7 +10,7 @@ import TableBody from '@material-ui/core/TableBody';
 import TableRow from '@material-ui/core/TableRow';
 import TableCell from '@material-ui/core/TableCell';
 
-// css 설정
+// css material-ui style 설정
 import { withStyles } from '@material-ui/core/styles';
 
 const styles = theme => ({
